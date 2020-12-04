@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T03:03:11.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="Snop6hfScLdFiu0iEQ1J" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T06:40:14.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="37HzZ5V8AzsVgY-fTyTs" version="13.10.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1480" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="423" dy="269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -52,6 +52,9 @@
         <mxCell id="29k9gHJ5QFqkueK0-OFy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="29k9gHJ5QFqkueK0-OFy-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="659.7058823529412" y="719.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="720" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="29k9gHJ5QFqkueK0-OFy-12" value="&lt;pre style=&quot;font-family: menlo, monospace; font-size: 9pt;&quot;&gt;DfpAndAmazonAdUtils&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -142,9 +145,6 @@
               <mxPoint x="240" y="610" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="29k9gHJ5QFqkueK0-OFy-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="29k9gHJ5QFqkueK0-OFy-36" target="29k9gHJ5QFqkueK0-OFy-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29k9gHJ5QFqkueK0-OFy-36" value="&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; , monospace ; font-size: 9pt&quot;&gt;ArticleHeadSinglePartDefine&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; , monospace ; font-size: 9pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; , monospace ; font-size: 9pt&quot;&gt;FeedOpenAdPartDefine&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; , monospace ; font-size: 9pt&quot;&gt;ArticleFragment&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; , monospace ; font-size: 9pt&quot;&gt;BabyPregnancyFragment&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; , monospace ; font-size: 9pt&quot;&gt;PrenantBabyContentFragment&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="533.5" y="720" width="250" height="180" as="geometry" />
